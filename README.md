@@ -1,7 +1,6 @@
 - Hi, I’m @anu-shree-anil
-- I’m interested in Artificial Intelligence and Machine Learning
-- I’m currently learning Web Development
-- I’m looking to collaborate on open source projects which are based on Java,C++,Python or Web development
+- Passionate about Artificial Intelligence and Machine Learning
+- Always seeking for fun projects to work on
 - How to reach me- anushreeanil10@gmail.com
 
 <!---
